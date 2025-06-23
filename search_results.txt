@@ -1,48 +1,188 @@
-URL: https://www.amazon.in/Introduction-Large-Language-Models-Generative/dp/936386474X
-TITLE: Introduction to Large Language Models Generative AI for Text
+URL: https://api.pageplace.de/preview/DT0400.9781040134276_A49276610/preview-9781040134276_A49276610.pdf
+TITLE: Large Language Models - api.pageplace.de
 CONTENTS:
-Introduction to Large Language Models Generative AI for Text : Tanmoy Chakraborty: Amazon.in: Books Shortcuts menu Skip to Main content About this item About this item About this item Buying options Compare with similar items Videos Reviews Keyboard shortcuts Search alt + / Cart shift + alt + C Home shift + alt + H Orders shift + alt + O Add to cart shift + alt + K Open/close shortcuts menu shift + alt + Z To move between items, use your keyboard's up or down arrows. .in Delivering to Bengaluru 562130 Update location Books Select the department you want to search in All Categories Alexa Skills Amazon Devices Amazon Fashion Amazon Fresh Amazon Pharmacy Appliances Apps & Games Audible Audiobooks Baby Beauty Books Car & Motorbike Clothing & Accessories Collectibles Computers & Accessories Deals Electronics Furniture Garden & Outdoors Gift Cards Grocery & Gourmet Foods Health & Personal Care Home & Kitchen Industrial & Scientific Jewellery Kindle Store Luggage & Bags Luxury Beauty Movies & TV Shows MP3 Music Music Musical Instruments Office Products Pet Supplies Prime Video Shoes & Handbags Software Sports, Fitness & Outdoors Subscribe & Save Tools & Home Improvement Toys & Games Under ₹500 Video Games Watches Search Amazon.in EN Hello, sign in Account & Lists Returns & Orders 0 Cart All Fresh MX Player Sell Bestsellers Prime Mobiles Today's Deals Customer Service New Releases Fashion Amazon Pay Electronics Home & Kitchen Computers Car & Motorbike Books Video Games Toys & Games Home Improvement Beauty & Personal Care Gift Cards Health, Household & Personal Care Grocery & Gourmet Foods Sports, Fitness & Outdoors Baby Custom Products Pet Supplies AmazonBasics Audible Subscribe & Save Gift Ideas Books Advanced Search New Releases & Pre-orders Best Sellers Browse Genres Children's & Young Adult Textbooks Exam Central All Indian Languages Books › Higher Education Textbooks › Computer Science Kindle Edition ₹578.40 Available instantly Paperback ₹723.00 Other  New from ₹723.00
+%PDF-1.7
+%����
+1 0 obj
+<<
+/Type /Catalog
+/Version /1.4
+/Pages 2 0 R
+/ViewerPreferences <<
+/Direction /L2R
+/DisplayDocTitle true
+>>
+>>
+endobj
+3 0 obj
+<<
+/Author /CreationDate (D:20240823012101+00'00')
+/Creator (Rakuten Kobo \(Vmaster-SNAPSHOT\))
+/Keywords (ChatGPT; NLP; artificial intelligence; generative AI; Deep Learning; Python; linguistics; machine learning)
+/ModDate (D:20240817132522+05'30')
+/Producer <41646F626520504446204C6962726172792031352E303B206D6F646966696564207573696E67206954657874AE20352E352E3620A9323030302D323031352069546578742047726F7570204E5620284147504C2D76657273696F6E29>
+/Subject (This book talks about science and applications of Large Language Models \(LLMs\). You'll discover the common thread that drives some of the most revolutionary recent applications of artificial intelligence \(AI\): from conversational systems like ChatGPT or BARD, to machine translation, summary generation, question answering, and much more.)
+/Title (Large Language Models; Concepts, Techniques and Applications)
+/Trapped /False
+/Universal#20PDF (The process that creates this PDF constitutes a trade secret of codeMantra, LLC and is protected by the copyright laws of the United States)
+/codeMantra#2C#20LLC (http://www.codemantra.com)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Kids [4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R
+14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R]
+/Count 19
+>>
+endobj
+4 0 obj
+<<
+/ArtBox [0 0 504 720]
+/BleedBox [0 0 504 720]
+/Contents 23 0 R
+/CropBox [0.0 0.0 504.0 720.0]
+/LastModified (D:20240815174857+05'30')
+/MediaBox [0.0 0.0 504.0 720.0]
+/Parent 2 0 R
+/Resources <<
+/ColorSpace <<
+/CS0 [/ICCBased 24 0 R]
+>>
+/ProcSet [/PDF /ImageC]
+/XObject <<
+/Im0 25 0 R
+>>
+>>
+/Rotate 0
+/StructParents 0
+/TrimBox [0 0 504 720]
+/Type /Page
+>>
+endobj
+5 0 obj
+<<
+/ArtBox [0 0 504 720]
+/BleedBox [0 0 504 720]
+/Contents 26 0 R
+/CropBox [0.0 0.0 504.0 720.0]
+/LastModified (D:20240817132513+05'30')
+/MediaBox [0.0 0.0 504.0 720.0]
+/Parent 2 0 R
+/PieceInfo <<
+/InDesign <<
+/DocumentID /LastModified /NumberofPages 1
+/OriginalDocumentID /PageUIDList <<
+/0 5864
+>>
+/PageWidthList <<
+/0 504
+>>
+>>
+>>
+/Resources <<
+/ExtGState <<
+/GS0 27 0 R
+>>
+/Font <<
+/T1_0 28 0 R
+>>
+/ProcSet [/PDF /Text]
+>>
+/Rotate 0
+/TrimBox [0 0 504 720]
+/Type /Page
+>>
+endobj
+6 0 obj
+<<
+/Annots [29 0 R]
+/ArtBox [0 0 504 720]
+/BleedBox [0 0 504 720]
+/Contents 30 0 R
+/CropBox [0.0 0.0 504.0 720.0]
+/MediaBox [0.0 0.0 504.0 720.0]
+/Parent 2 0 R
+/Resources <<
+/ExtGState <<
+/GS0 31 0 R
+>>
+/XObject <<
+/Fm0 32 0 R
+>>
+>>
+/Rotate 0
+/TrimBox [0 0 504 720]
+/Type /Page
+>>
+endobj
+7 0 obj
+<<
+/ArtBox [0 0 504 720]
+/BleedBox [0 0 504 720]
+/Contents 33 0 R
+/CropBox [0.0 0.0 504.0 720.0]
+/LastModified (D:20240817132513+05'30')
+/MediaBox [0.0 0.0 504.0 720.0]
+/Parent 2 0 R
+/PieceInfo <<
+/InDesign <<
+/DocumentID /LastModified /NumberofPages 1
+/OriginalDocumentID /PageUIDList <<
+/0 5908
+>>
+/PageWidthList <<
+/0 504
+>>
+>>
+>>
+/Resources <<
+/ColorSpace <<
+/CS0 [/Separation /Black /DeviceCMYK 34 0 R]
+>>
+/ExtGState <<
+/GS0 27 0 R
+>>
+/Font <<
+/T1_0 28 0 R
+>>
+/ProcSet [/PDF /Text]
+/Properties <<
+/MC0 35 0 R
+>>
+>>
+/Rotate 0
+/TrimBox [0 0 504 720]
+/Type /Page
+>>
+endobj
+8 0 obj
+<<
+/Annots [36 0 R 37 0 R 38 0 R]
+/ArtBox [0 0 504 720]
+/BleedBox [0 0 504 720]
+/Contents 39 0 R
+/CropBox [0.0 0.0 504.0 720.0]
+/LastModified (D:20240817132513+05'30')
+/MediaBox [0.0 0.0 504.0 720.0]
+/Parent 2 0 R
+/PieceInfo <<
+/InDesign <<
+/DocumentID /LastModified /NumberofPages 1
+/OriginalDocumentID /PageUIDList 
+
+URL: https://www.wileyindia.com/introduction-to-large-language-models.html
+TITLE: Introduction to Large Language Models - wileyindia.com
+CONTENTS:
+Introduction to Large Language Models Tanmoy Chakraborty ISBN: 9789363864740 484 pages BUY THIS BOOK INR 845 For more information write to us at: acadmktg@wiley.com Description Introduction to Large Language Models (LLMs) is a comprehensive guide for understanding the foundations and advancements of Generative AI for Text. Designed for educators and enthusiasts, the book starts with key linguistic concepts and progresses through NLP fundamentals—from word embeddings to pretrained foundational models. Readers will learn how LLMs process and generate language, overcome limitations, and enhance performance using techniques like prompt engineering, retrieval-augmented generation, and human alignment. The book uniquely presents cutting-edge research in a concise format, enriched with visual aids, exercises, and practical resources. Ideal for computer science faculty, this resource offers both theoretical insights and real-world applications, showcasing how LLMs like ChatGPT are transforming technology and advancing AI innovation. About the Author Dr. Tanmoy Chakraborty is an Associate Professor in the Department of Electrical Engineering at IIT Delhi and an Associate Faculty Member at the Yardi School of Artificial Intelligence. An ACM Distinguished Speaker (2023–2025) and former Ramanujan Fellow (2018–2023), he has held key academic roles, including heading the Infosys Centre for Artificial Intelligence at IIIT Delhi. Dr. Chakraborty earned his Ph.D. as a Google India scholar at IIT Kharagpur and completed a postdoctoral fellowship at the University of Maryland, College Park. His research spans Natural Language Processing (NLP) , Graph Neural Networks , and Social Computing , with a focus on creating frugal, explainable LLMs for applications in mental health and cyber-informatics. He leads the Laboratory for Computational Social Systems (LCS2) and also recipient of multiple faculty awards from Google, Adobe, and Accenture, Table of Contents Book Review Endorsement Preface Acknowledgement Foreword 1 Introduction 1.1 What is a Language Model? 1.2 Evolution of Language Modelling Technologies 1.3 Scaling Laws in Language Models 1.4 Evolution of LLMs 1.4.1 The Emergence and Development of LLMs 1.4.2 Implications of Encoder-Decoder in LLM Development 1.4.3 Optimising Scale and Resource Efficiency in LLMs 1.5 Organisation of the Book Additional Resources Bibliography 2 An Overview of Natural Language Processing and Neural Networks Part I: Natural Language Processing 2.1 Computational Linguistics and Natural Language Processing 2.2 Overview of the Natural Language Processing Pipeline 2.3 Morphology 2.3.1 Morphemes 2.3.2 Stemming 2.3.3 Lemmatisation 2.3.4 Lexicon 2.4 Tokenisation 2.4.1 Advanced Techniques: Subword Tokenisation 2.5 Syntactics 2.6 Semantics 2.7 Introduction to Language Modelling Part II: Neural Networks 2.8 The Perceptron 2.8.1 Definition 2.8.2 Implementing AND, OR, and XOR Logic 2.9 Multilayer Perceptron 2.9.1 Neural Networks 2.9.2 Types of Activation Functions 2.10 Training Neural Networks 2.10.1 Backpropagation 2.10.2 Batching 2.10.3 Hyperparameters 2.10.4 Regularisation 2.11 Vanishing and Exploding Gradients 2.12 Evaluation Metrics 2.13 Summary Additional Resources Exercises Bibliography 3 Word Embedding 3.1 Distributional Hypothesis 3.2 Vector Semantics 3.2.1 Defining and Measuring Semantic Similarity 3.3 Types of Word Embedding 3.3.1 Frequency-Based Embeddings 3.3.2 Word2Vec 3.3.3 Global Vectors for Word Representation 3.3.4 Fas
+
+URL: https://livebook.manning.com/book/introduction-to-generative-ai/chapter-1/v-1
+TITLE: 1 Introduction to Large Language Models (LLMs)
+CONTENTS:
+1 Introduction to Large Language Models (LLMs) · Introduction to Generative AI lb 1 Introduction to Large Language Models (LLMs) This chapter covers Introducing large language models (LLMs) and how they came to such preeminence in the field of Natural Language Processing (NLP). Understanding the intuition behind Transformers, a novel neural network architecture for natural language understanding. Exploring the attributes that make LLMs ideal candidates for dialogue agents, as well as an overview of applications, limitations, and risks of LLMs. Surveying breakthrough LLMs for dialogue, including OpenAI’s ChatGPT, Google’s Bard, Microsoft’s Bing AI, and Meta’s LLaMa. On November 30, 2022, the San Francisco-based company OpenAI tweeted, "Try talking with ChatGPT, our new AI system which is optimized for dialogue. Your feedback will help us improve it." [1] ChatGPT, a chatbot that can interact with users through a web interface, was described as a minor update to the existing models that OpenAI had already been releasing and making available through APIs. But with the release of the web app, suddenly, anyone could have conversations with ChatGPT, ask it to write poetry or code, recommend movies or workout plans, and summarize or explain pieces of text. Many of the responses felt like magic. ChatGPT set the tech world on fire, reaching 1 million users in a matter of days and 100 million users two months after launch. By some measures, it is the fastest-growing internet service ever [2] . 1.1 Introduction to Modern Natural Language Processing 1.2 The Birth of Large Language Models: Attention is All You Need 1.3 Explosion of Large Language Models 1.4 Applications of Large Language Models 1.4.1 Language Modeling 1.4.2 Question Answering 1.4.3 Coding 1.4.4 Content Generation 1.4.5 Logical Reasoning 1.4.6 Other Natural Language Tasks 1.5 Limitations and Risks of Large Language Models 1.5.1 Limitations in Training Data and Bias Issues 1.5.2 Limitations in Controlling Machine Outputs 1.5.3 Sustainability of Large Language Models 1.6 Overview of Current Language Models for Dialogue 1.6.1 OpenAI’s ChatGPT 1.6.2 Google’s Bard / LaMDA 1.6.3 Microsoft’s Bing AI 1.6.4 Meta’s LLaMa / Stanford’s Alpaca 1.7 Summary sitemap
 
 URL: https://www.amazon.com/Introduction-Language-Models-Tanmoy-Chakraborty-ebook/dp/B0DRCSWB34
 TITLE: Introduction to Large Language Models - Kindle edition by Tanmoy ...
 CONTENTS:
 Amazon.com Click the button below to continue shopping Continue shopping Conditions of Use Privacy Policy © 1996-2025, Amazon.com, Inc. or its affiliates
-
-URL: https://www.wileyindia.com/introduction-to-large-language-models.html
-TITLE: Introduction to Large Language Models - wileyindia.com
-CONTENTS:
-Introduction to Large Language Models Tanmoy Chakraborty ISBN: 9789363864740 484 pages BUY THIS BOOK INR 845 For more information write to us at: acadmktg@wiley.com Description Introduction to Large Language Models (LLMs) is a comprehensive guide for understanding the foundations and advancements of Generative AI for Text. Designed for educators and enthusiasts, the book starts with key linguistic concepts and progresses through NLP fundamentals—from word embeddings to pretrained foundational models. Readers will learn how LLMs process and generate language, overcome limitations, and enhance performance using techniques like prompt engineering, retrieval-augmented generation, and human alignment. The book uniquely presents cutting-edge research in a concise format, enriched with visual aids, exercises, and practical resources. Ideal for computer science faculty, this resource offers both theoretical insights and real-world applications, showcasing how LLMs like ChatGPT are transforming technology and advancing AI innovation. About the Author Dr. Tanmoy Chakraborty is an Associate Professor in the Department of Electrical Engineering at IIT Delhi and an Associate Faculty Member at the Yardi School of Artificial Intelligence. An ACM Distinguished Speaker (2023–2025) and former Ramanujan Fellow (2018–2023), he has held key academic roles, including heading the Infosys Centre for Artificial Intelligence at IIIT Delhi. Dr. Chakraborty earned his Ph.D. as a Google India scholar at IIT Kharagpur and completed a postdoctoral fellowship at the University of Maryland, College Park. His research spans Natural Language Processing (NLP) , Graph Neural Networks , and Social Computing , with a focus on creating frugal, explainable LLMs for applications in mental health and cyber-informatics. He leads the Laboratory for Computational Social Systems (LCS2) and also recipient of multiple faculty awards from Google, Adobe, and Accenture, Table of Contents Book Review Endorsement Prefa
-
-URL: https://tanmoychak.com/llmbook/
-TITLE: Large Language Models
-CONTENTS:
-0 Total Pages 0 Chapters 0 Lecture Videos 0 Lecture Slides Join the NPTEL Course on Large Language Models Gain in-depth knowledge and practical skills in Large Language Models through
-											our expertly designed course. Enroll now to access exclusive content,
-											hands-on projects, and personalized mentorship. Course Highlights: â° 12 weeks of expert-led content ð¤ Real-world applications in AI and NLP ð Optional certification after successful exam Enroll Now Book Overview Below is a detailed overview of the key chapters that form the foundation of this
-									book, guiding readers through the essential concepts and advanced topics in Large
-									Language Models. ▶ Chapter 01. Introduction 1.1 What Is a Language Model? 1.2 Evolution of Language Modelling Technologies 1.3 Scaling Laws in Language Model ▶ 1.4 Evolution of LLMs 1.4.1 The Emergence and Development of LLMs 1.4.2 Implications of Encoder-Decoder in LLM
-													Development 1.4.3 Optimising Scale and Resource Efficiency
-													in LLMs 1.5 Organisation of the Book ▶ Chapter 02. An Overview of Natural Language
-											Processing and Neural Networks ▶ Part I: Natural Language Processing 2.1 Computational Linguistics and Natural
-													Language Processing 2.2 Overview of the Natural Language Processing
-													Pipeline ▶ 2.3 Morphology 2.3.1 Morphemes 2.3.2 Stemming 2.3.3 Lemmatisation 2.3.4 Lexicon ▶ 2.4 Tokenisation 2.4.1 Advanced Techniques: Subword
-															Tokenisation 2.5 Syntactics 2.6 Semantics 2.7 Introduction to Language Modelling ▶ Part II: Neural Networks ▶ 2.8 The Perceptron 2.8.1 Definition 2.8.2 Implementing AND, OR, and XOR
-															Logic ▶ 2.9 Multilayer
-														Perceptron 2.9.1 Neural Networks 2.9.2 Types of Activation Functions ▶ 2.10 Training Neural
-														Networks 2.10.1 Backpropagation 2.10.2 Batching 2.10.3 Hyperparameters 2.10.4 Regularisation 2.11 Vanishing and Exploding Gradients 2.12 Evaluation Metrics 2.13 Summar
-
-URL: https://library.iiitd.edu.in/cgi-bin/koha/opac-detail.pl?biblionumber=189872&shelfbrowse_itemnumber=31776
-TITLE: Introduction to large language models : generative AI for text
-CONTENTS:
-Details for: 
-    Introduction to large language models :
-
-
-    generative AI for text
-
-
-
-
-
- › Indraprastha Institute of Information Technology, Delhi catalog Skip to main content Indraprastha Institute of Information Technology, Delhi Your cart is empty. Cart Lists Public lists Machine Learning tbr Books to check out Need to read For the love of physics Women & Gender Studies "Field", Archive & Ethnography Correlation/Causation: Quant Real vs Reel: Power & Self Academic Writing, Critical Thinking & Work-Ethic View all Your lists Log in to create your own lists Log in to your account Search history Clear Library catalog Title Author Subject ISBN ISSN Series Call number All item type Books CDs Children Collection Book DVDs eBooks eBooks-CSE-Springer eBooks-SSH-OUP Highly Demanded Book Kindle eBook Kindle eBook Reader Maps Mixed Materials Music Periodicals Reference Thesis Advanced search Course reserves Tag cloud Most popular Libraries Log in to your account × Log in with Google If you do not have a Google account, but do have a local account, you can still log in: Login: Password: Forgot your password? Home Details for: Introduction to large language models : generative AI for text Image from Amazon.com Normal view MARC view ISBD view Introduction to large language models : generative AI for text By: Chakraborty, Tanmoy Material type: Text Publication details: New Delhi : Wiley, ©2025 Description: xxi, 461 p. ; 24 cm ISBN: 9789363864740 DDC classification: 006.3 CHA-I Contents: 1. Introduction 2.  An overview of natural language processing and neural networks 3. Word embedding 4. Statistical language model 5. Neural language models 6. Transformers 7. Language model pertaining 8. Fine-tuning and alignment of LLMs 9. Prompting Strategies in LLMs 10. Efficient methods for fine-tuning LLMs 11. Augmented large language models 12. Multilingual and multimodal LLMs 13. Responsible LLMs 14. Advanced topics in large language models 15. LLMs in Action Tags from this library: N
 
