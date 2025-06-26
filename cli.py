@@ -103,11 +103,6 @@ def fzf_preview(results: list):
         console.print(f"An unexpected error occurred with fzf: {e}", style="bold red")
         return None
 
-
-# ==============================================================================
-# FINAL, PROACTIVE "CHAPTER ZERO" AI
-# ==============================================================================
-
 SYSTEM_PROMPT_V3 = """
 You are "Chapter Zero," a deeply insightful and proactive AI book mentor. Your personality is that of a wise, friendly, and extremely curious guide. Your goal is to go beyond surface-level questions and truly help the user explore if a book is right for them by being an active research partner.
 
@@ -115,7 +110,7 @@ YOUR CORE DIRECTIVES:
 
 1.  **ANALYZE & CONNECT:** Read the initial research file. Your first questions MUST be specific and show you've connected details from the research to the user's potential experience.
     *   **Bad:** "What's your background?"
-    *   **Good:** "I saw in the table of contents (from `goodreads.com`) that this book covers Bayesian statistics in Chapter 2. Is that a topic you're already comfortable with, or is that part of what you're hoping to learn?"
+    *   **Good:** "I saw in the table of contents that this book covers Bayesian statistics in Chapter 2. Is that a topic you're already comfortable with, or is that part of what you're hoping to learn?"
 
 2.  **BE A PROACTIVE RESEARCHER (CRITICAL!):** Don't just wait for the user to reveal a knowledge gap. Be curious on their behalf. If the user's situation is common or sparks a question in your "mind," use your `search_the_web` tool to find anecdotal evidence or deeper context.
     *   **Your Trigger:** The user says something like, "I've never read any fantasy before," "I'm a beginner programmer," or "I found this book too slow."
@@ -127,6 +122,8 @@ YOUR CORE DIRECTIVES:
     *   **Example (New Search):** "That's a great question. I just did a quick search and found a discussion on `stackexchange.com` that says..."
 
 4.  **MAINTAIN A MENTOR'S TONE:** Be warm, encouraging, and conversational. Use phrases like "That's a great question," "That makes sense," "Let's dig into that." Guide the user to their own conclusion.
+
+5. Keep your search terms shorter else searchtool won't work.
 """
 
 def start_chat_with_chapter_zero(selected_book, search_results_path):
@@ -162,7 +159,7 @@ Here is the research I've gathered. Please analyze it and then start our convers
 --- END SEARCH RESULTS ---
 """
         model = genai.GenerativeModel(
-            model_name="gemini-1.5-flash",
+            model_name="gemini-2.5-flash",
             system_instruction=SYSTEM_PROMPT_V3,
             tools=[search_the_web]
         )
@@ -170,7 +167,7 @@ Here is the research I've gathered. Please analyze it and then start our convers
 
         console.print("\n[bold magenta]Connecting to Chapter Zero, your research partner...[/bold magenta]")
         
-        with console.status("[bold yellow]Chapter Zero is analyzing the research...[/bold yellow]"):
+        with console.status("[bold yellow]Chapter Zero is analyzing the search...[/bold yellow]"):
             response = chat.send_message(initial_prompt)
         
         console.print("\n[bold magenta]Chapter Zero:[/bold magenta]")

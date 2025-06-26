@@ -1,188 +1,20 @@
-URL: https://api.pageplace.de/preview/DT0400.9781040134276_A49276610/preview-9781040134276_A49276610.pdf
-TITLE: Large Language Models - api.pageplace.de
+URL: https://howtolearnmachinelearning.com/books/machine-learning-books/the-elements-of-statistical-learning/
+TITLE: The elements of statistical learning: The best review!
 CONTENTS:
-%PDF-1.7
-%����
-1 0 obj
-<<
-/Type /Catalog
-/Version /1.4
-/Pages 2 0 R
-/ViewerPreferences <<
-/Direction /L2R
-/DisplayDocTitle true
->>
->>
-endobj
-3 0 obj
-<<
-/Author /CreationDate (D:20240823012101+00'00')
-/Creator (Rakuten Kobo \(Vmaster-SNAPSHOT\))
-/Keywords (ChatGPT; NLP; artificial intelligence; generative AI; Deep Learning; Python; linguistics; machine learning)
-/ModDate (D:20240817132522+05'30')
-/Producer <41646F626520504446204C6962726172792031352E303B206D6F646966696564207573696E67206954657874AE20352E352E3620A9323030302D323031352069546578742047726F7570204E5620284147504C2D76657273696F6E29>
-/Subject (This book talks about science and applications of Large Language Models \(LLMs\). You'll discover the common thread that drives some of the most revolutionary recent applications of artificial intelligence \(AI\): from conversational systems like ChatGPT or BARD, to machine translation, summary generation, question answering, and much more.)
-/Title (Large Language Models; Concepts, Techniques and Applications)
-/Trapped /False
-/Universal#20PDF (The process that creates this PDF constitutes a trade secret of codeMantra, LLC and is protected by the copyright laws of the United States)
-/codeMantra#2C#20LLC (http://www.codemantra.com)
->>
-endobj
-2 0 obj
-<<
-/Type /Pages
-/Kids [4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R
-14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R]
-/Count 19
->>
-endobj
-4 0 obj
-<<
-/ArtBox [0 0 504 720]
-/BleedBox [0 0 504 720]
-/Contents 23 0 R
-/CropBox [0.0 0.0 504.0 720.0]
-/LastModified (D:20240815174857+05'30')
-/MediaBox [0.0 0.0 504.0 720.0]
-/Parent 2 0 R
-/Resources <<
-/ColorSpace <<
-/CS0 [/ICCBased 24 0 R]
->>
-/ProcSet [/PDF /ImageC]
-/XObject <<
-/Im0 25 0 R
->>
->>
-/Rotate 0
-/StructParents 0
-/TrimBox [0 0 504 720]
-/Type /Page
->>
-endobj
-5 0 obj
-<<
-/ArtBox [0 0 504 720]
-/BleedBox [0 0 504 720]
-/Contents 26 0 R
-/CropBox [0.0 0.0 504.0 720.0]
-/LastModified (D:20240817132513+05'30')
-/MediaBox [0.0 0.0 504.0 720.0]
-/Parent 2 0 R
-/PieceInfo <<
-/InDesign <<
-/DocumentID /LastModified /NumberofPages 1
-/OriginalDocumentID /PageUIDList <<
-/0 5864
->>
-/PageWidthList <<
-/0 504
->>
->>
->>
-/Resources <<
-/ExtGState <<
-/GS0 27 0 R
->>
-/Font <<
-/T1_0 28 0 R
->>
-/ProcSet [/PDF /Text]
->>
-/Rotate 0
-/TrimBox [0 0 504 720]
-/Type /Page
->>
-endobj
-6 0 obj
-<<
-/Annots [29 0 R]
-/ArtBox [0 0 504 720]
-/BleedBox [0 0 504 720]
-/Contents 30 0 R
-/CropBox [0.0 0.0 504.0 720.0]
-/MediaBox [0.0 0.0 504.0 720.0]
-/Parent 2 0 R
-/Resources <<
-/ExtGState <<
-/GS0 31 0 R
->>
-/XObject <<
-/Fm0 32 0 R
->>
->>
-/Rotate 0
-/TrimBox [0 0 504 720]
-/Type /Page
->>
-endobj
-7 0 obj
-<<
-/ArtBox [0 0 504 720]
-/BleedBox [0 0 504 720]
-/Contents 33 0 R
-/CropBox [0.0 0.0 504.0 720.0]
-/LastModified (D:20240817132513+05'30')
-/MediaBox [0.0 0.0 504.0 720.0]
-/Parent 2 0 R
-/PieceInfo <<
-/InDesign <<
-/DocumentID /LastModified /NumberofPages 1
-/OriginalDocumentID /PageUIDList <<
-/0 5908
->>
-/PageWidthList <<
-/0 504
->>
->>
->>
-/Resources <<
-/ColorSpace <<
-/CS0 [/Separation /Black /DeviceCMYK 34 0 R]
->>
-/ExtGState <<
-/GS0 27 0 R
->>
-/Font <<
-/T1_0 28 0 R
->>
-/ProcSet [/PDF /Text]
-/Properties <<
-/MC0 35 0 R
->>
->>
-/Rotate 0
-/TrimBox [0 0 504 720]
-/Type /Page
->>
-endobj
-8 0 obj
-<<
-/Annots [36 0 R 37 0 R 38 0 R]
-/ArtBox [0 0 504 720]
-/BleedBox [0 0 504 720]
-/Contents 39 0 R
-/CropBox [0.0 0.0 504.0 720.0]
-/LastModified (D:20240817132513+05'30')
-/MediaBox [0.0 0.0 504.0 720.0]
-/Parent 2 0 R
-/PieceInfo <<
-/InDesign <<
-/DocumentID /LastModified /NumberofPages 1
-/OriginalDocumentID /PageUIDList 
+The Elements of Statistical Learning: The Bible of Machine Learning Learn all the Theory underlying Machine Learning and Data Mining with the most contrasted book on the topic: The Elements of Statistical Learning! The Elements of Statistical Learning: The following is a review of the book The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics) by Trevor Hastie, Robert Tibshriani and Jerome Friedman. Review As mentioned in the title, The Elements of St atistical Learning is seen by many Gurus as the Bible of Machine Learning. This second edition was published in 2009, and despite being an old text, it remains as the king of books to become a serious expert in the theory underlying Machine Learning. It is a very conceptual and theoretical book, where many examples are given, and it comes with very illustrative and high-quality figures. It covers topics that go from Supervised and Unsupervised learning to Artificial Neural Networks, Support Vector Machines , Decision Trees and much much more. This major new edition features many topics not covered in the original, including graphical models, Random forests, Ensemble methods, least angle regression & LASSO (one of the authors, Tibshirani, is actually the creator of this regularisation technique), non-negative matrix factorisation, and spectral clustering. There is also a chapter on methods for “wide” data (number of features being larger than the number of data points), including multiple testing and false discovery rates. We want to make it very clear that The Elements of Statistical Learning is a highly theoretical book, it does not speak about programming, and the maths required to understand it is that of a medium-high level. It is therefore not a book we would recommend to beginners on statistics, or for those that are looking to learn to implement Machine Learning algorithms in R or Python . Rather, we think this book is best for those that have a good statistics and mathematics foundation, that have been implementing and working with Machine Learning for a while, and that want to scale their knowledge or the theoretical concepts and the magic underlying the different algorithms. If you are looking for a text to get into Machine Learning and the needed statistics with a better balance between theory and practice, we advice going for ‘ Introduction to Statistical Learning with R ‘, by the same authors. You can find it here . Another good book with great content in Python this time, is ‘Hands on Machine Learning with Scikit – Learn , Keras and Tensorflow ‘. You can find a wonderful review of that book here . Despite being very theoretical, The Elements of Statistical Learning avoids spinning around on the same topic or tedious and long demonstrations, going straight to the point in each subject, which makes it a great reference manual to refresh the deepest corners of Machine Learning algorithms. Because of this it is a great document to have for both researchers and those that use Machine Learning techniques in the business world. Overall, we think it is a must have manual in the shelf of anybody who aims to be a Machine Learning expert, and definitely a good resource to reach cutting edge knowledge in this field. Content of the Elements of Statistical Learning The contents of the book are the following: Introduction Overview of Supervised Learning Linear Methods for Regression Linear Methods for Classification Basis
 
-URL: https://www.wileyindia.com/introduction-to-large-language-models.html
-TITLE: Introduction to Large Language Models - wileyindia.com
+URL: https://link.springer.com/book/10.1007/978-0-387-84858-7
+TITLE: The Elements of Statistical Learning: Data Mining, Inference, and ...
 CONTENTS:
-Introduction to Large Language Models Tanmoy Chakraborty ISBN: 9789363864740 484 pages BUY THIS BOOK INR 845 For more information write to us at: acadmktg@wiley.com Description Introduction to Large Language Models (LLMs) is a comprehensive guide for understanding the foundations and advancements of Generative AI for Text. Designed for educators and enthusiasts, the book starts with key linguistic concepts and progresses through NLP fundamentals—from word embeddings to pretrained foundational models. Readers will learn how LLMs process and generate language, overcome limitations, and enhance performance using techniques like prompt engineering, retrieval-augmented generation, and human alignment. The book uniquely presents cutting-edge research in a concise format, enriched with visual aids, exercises, and practical resources. Ideal for computer science faculty, this resource offers both theoretical insights and real-world applications, showcasing how LLMs like ChatGPT are transforming technology and advancing AI innovation. About the Author Dr. Tanmoy Chakraborty is an Associate Professor in the Department of Electrical Engineering at IIT Delhi and an Associate Faculty Member at the Yardi School of Artificial Intelligence. An ACM Distinguished Speaker (2023–2025) and former Ramanujan Fellow (2018–2023), he has held key academic roles, including heading the Infosys Centre for Artificial Intelligence at IIIT Delhi. Dr. Chakraborty earned his Ph.D. as a Google India scholar at IIT Kharagpur and completed a postdoctoral fellowship at the University of Maryland, College Park. His research spans Natural Language Processing (NLP) , Graph Neural Networks , and Social Computing , with a focus on creating frugal, explainable LLMs for applications in mental health and cyber-informatics. He leads the Laboratory for Computational Social Systems (LCS2) and also recipient of multiple faculty awards from Google, Adobe, and Accenture, Table of Contents Book Review Endorsement Preface Acknowledgement Foreword 1 Introduction 1.1 What is a Language Model? 1.2 Evolution of Language Modelling Technologies 1.3 Scaling Laws in Language Models 1.4 Evolution of LLMs 1.4.1 The Emergence and Development of LLMs 1.4.2 Implications of Encoder-Decoder in LLM Development 1.4.3 Optimising Scale and Resource Efficiency in LLMs 1.5 Organisation of the Book Additional Resources Bibliography 2 An Overview of Natural Language Processing and Neural Networks Part I: Natural Language Processing 2.1 Computational Linguistics and Natural Language Processing 2.2 Overview of the Natural Language Processing Pipeline 2.3 Morphology 2.3.1 Morphemes 2.3.2 Stemming 2.3.3 Lemmatisation 2.3.4 Lexicon 2.4 Tokenisation 2.4.1 Advanced Techniques: Subword Tokenisation 2.5 Syntactics 2.6 Semantics 2.7 Introduction to Language Modelling Part II: Neural Networks 2.8 The Perceptron 2.8.1 Definition 2.8.2 Implementing AND, OR, and XOR Logic 2.9 Multilayer Perceptron 2.9.1 Neural Networks 2.9.2 Types of Activation Functions 2.10 Training Neural Networks 2.10.1 Backpropagation 2.10.2 Batching 2.10.3 Hyperparameters 2.10.4 Regularisation 2.11 Vanishing and Exploding Gradients 2.12 Evaluation Metrics 2.13 Summary Additional Resources Exercises Bibliography 3 Word Embedding 3.1 Distributional Hypothesis 3.2 Vector Semantics 3.2.1 Defining and Measuring Semantic Similarity 3.3 Types of Word Embedding 3.3.1 Frequency-Based Embeddings 3.3.2 Word2Vec 3.3.3 Global Vectors for Word Representation 3.3.4 Fas
+Overview Authors: Trevor Hastie 0 , Robert Tibshirani 1 , Jerome Friedman 2 Trevor Hastie Dept. of Statistics, Stanford University, Stanford, USA View author publications Search author on: PubMed Google Scholar Robert Tibshirani Dept. of Statistics, Stanford University, Stanford, USA View author publications Search author on: PubMed Google Scholar Jerome Friedman Dept. of Statistics, Stanford University, Stanford, USA View author publications Search author on: PubMed Google Scholar The many topics include neural networks, support vector machines, classification trees and boosting - the first comprehensive treatment of this topic in any book Includes more than 200 pages of four-color graphics Includes supplementary material: sn.pub/extras Part of the book series: Springer Series in Statistics (SSS) 7.68m Accesses 29k Citations 244 Altmetric This is a preview of subscription content, log in via an institution to check access. Access this book Log in via an institution eBook EUR 64.19 Price includes VAT (India) Available as PDF Read on any device Instant download Own it forever Buy eBook Hardcover Book EUR 74.99 Price excludes VAT (India) Durable hardcover edition Dispatched in 3 to 5 business days Free shipping worldwide - see info Buy Hardcover Book Tax calculation will be finalised at checkout Licence this eBook for your library Learn about institutional subscriptions Other ways to access Licence this eBook for your library Institutional subscriptions About this book This book describes the important ideas in a variety of fields such as medicine, biology, finance, and marketing in a common conceptual framework. While the approach is statistical, the emphasis is on concepts rather than mathematics. Many examples are given, with a liberal use of colour graphics. It is a valuable resource for statisticians and anyone interested in data mining in science or industry. The book's coverage is broad, from supervised learning (prediction) to unsupervised learning. The many topics include neural networks, support vector machines, classification trees and boosting---the first comprehensive treatment of this topic in any book. This major new edition features many topics not covered in the original, including graphical models, random forests, ensemble methods, least angle regression & path algorithms for the lasso, non-negative matrix factorisation, and spectral clustering. There is also a chapter on methods for "wide'' data (p bigger than n), including multiple testing and false discovery rates. Similar content being viewed by others Emergence of Statistical Methodologies with the Rise of BIG Data Chapter © 2020 Use of Machine Learning (ML) for Predicting and Analyzing Ecological and ‘Presence Only’ Data: An Overview of Applications and a Good Outlook Chapter © 2018 Object Matching Chapter © 2019 Keywords Averaging Boosting Projection pursuit Random Forest Support Vector Machine classification clustering data mining machine learning supervised learning unsupervised learning Search within this book Search Table of contents (18 chapters) Front Matter Pages i-xxii Download chapter PDF Introduction Trevor Hastie, Robert Tibshirani, Jerome Friedman Pages 1-8 Overview of Supervised Learning Trevor Hastie, Robert Tibshirani, Jerome Friedman Pages 9-41 Linear Methods for Regression Trevor Hastie, Robert Tibshirani, Jerome Friedman Pages 43-99 Linear Methods for Classification Trevor Hastie, Robert Tibshirani, Jerome Friedman Pages 101-137 Basis Expansions 
 
-URL: https://livebook.manning.com/book/introduction-to-generative-ai/chapter-1/v-1
-TITLE: 1 Introduction to Large Language Models (LLMs)
+URL: https://www.learningmachines101.com/book-review-elements-statistical-learning-data-mining-inference-prediction/
+TITLE: Book Review - The Elements of Statistical Learning: Data Mining ...
 CONTENTS:
-1 Introduction to Large Language Models (LLMs) · Introduction to Generative AI lb 1 Introduction to Large Language Models (LLMs) This chapter covers Introducing large language models (LLMs) and how they came to such preeminence in the field of Natural Language Processing (NLP). Understanding the intuition behind Transformers, a novel neural network architecture for natural language understanding. Exploring the attributes that make LLMs ideal candidates for dialogue agents, as well as an overview of applications, limitations, and risks of LLMs. Surveying breakthrough LLMs for dialogue, including OpenAI’s ChatGPT, Google’s Bard, Microsoft’s Bing AI, and Meta’s LLaMa. On November 30, 2022, the San Francisco-based company OpenAI tweeted, "Try talking with ChatGPT, our new AI system which is optimized for dialogue. Your feedback will help us improve it." [1] ChatGPT, a chatbot that can interact with users through a web interface, was described as a minor update to the existing models that OpenAI had already been releasing and making available through APIs. But with the release of the web app, suddenly, anyone could have conversations with ChatGPT, ask it to write poetry or code, recommend movies or workout plans, and summarize or explain pieces of text. Many of the responses felt like magic. ChatGPT set the tech world on fire, reaching 1 million users in a matter of days and 100 million users two months after launch. By some measures, it is the fastest-growing internet service ever [2] . 1.1 Introduction to Modern Natural Language Processing 1.2 The Birth of Large Language Models: Attention is All You Need 1.3 Explosion of Large Language Models 1.4 Applications of Large Language Models 1.4.1 Language Modeling 1.4.2 Question Answering 1.4.3 Coding 1.4.4 Content Generation 1.4.5 Logical Reasoning 1.4.6 Other Natural Language Tasks 1.5 Limitations and Risks of Large Language Models 1.5.1 Limitations in Training Data and Bias Issues 1.5.2 Limitations in Controlling Machine Outputs 1.5.3 Sustainability of Large Language Models 1.6 Overview of Current Language Models for Dialogue 1.6.1 OpenAI’s ChatGPT 1.6.2 Google’s Bard / LaMDA 1.6.3 Microsoft’s Bing AI 1.6.4 Meta’s LLaMa / Stanford’s Alpaca 1.7 Summary sitemap
+Book Review - The Elements of Statistical Learning: Data Mining, Inference, and Prediction - Learning Machines 101 Learning Machines 101 A Gentle Introduction to Artificial Intelligence and Machine Learning Skip to content Home Join the Community! About Learning Machines 101 About Dr. Golden Episode Archive 2020 Episodes 2019 Episodes 2018 Episodes 2017 Episodes 2016 Episodes 2015 Episodes 2014 Episodes Book Stuff! Dr. Goldens New Book! Book Review Archive Software Linear Machine Nonlinear Machine (RBF) Lunar Lander Software Licenses FAQ Contact Us Book Review – The Elements of Statistical Learning: Data Mining, Inference, and Prediction CLICK HERE TO VISIT THE AMAZON STORE! Title: The Elements of Statistical Learning Series: Springer Series in Statistics Author: Trevor Hastier, Robert Tibshirani, and Jerome Friedman Genre: Machine Learning Algorithms Publisher: Springer Science Release Date: 2001 Pages: 533 About the Book: This book is a collection of topics which are loosely organized but the discussion of the topics is extremely clear.   The loose organization of topics has the advantage that one can flip around the book and read different sections without having to read earlier sections. A beginner to machine learning might start by reading Chapters 1, 2, 3, 4, 5, 11, 13, and 14 very carefully and then read the initial sections of the remaining chapters to get an idea about what types of topics they cover. The choice of topics hit most of the major areas of machine learning and the pedagogical style and writing style is quite clear. There are lots of great exercises, great color illustrations, intuitive explanations, relevant but not excessive mathematical notation, and numerous comments which are extremely relevant for applying theses ideas in practice. Both this book and the text by Bishop ( Pattern Recognition and Machine Learning ) are handy references which I like to keep by my side at all times! Indeed,  both of these texts are perhaps the two most popular graduate level textbooks on Machine Learning. I would say that if your training is in the field of statistics or mathematics you will probably like The Elements of Statistical Learning a little better than Pattern Recognition and Machine Learning but if your training is in the field of engineering you may like Pattern Recognition and Machine Learning a little better than the Elements of Statistical Learning . Do not confuse this book with “An introduction to Statistical Learning: with Applications in R” by James, Witten, Hastie, and Tibshirani. The book “An Introduction to Statistical Learning” is a great book and covers similar topics but it is less mathematical and is more focused on applications and software implementations than “The Elements of Statistical Learning”. Chapter 2 provides an overview of Supervised learning. Chapters 3 and 4 discuss linear methods for regression and classification. Then, Chapter 5 introduces the key concepts of basis functions and regularization.  A “basis function” can be described as a type of feature detector. With the right types of feature detectors or “basis functions”, it may be possible to approximate a complicated nonlinear function as a weighted sum of basis functions. This type of approach is used in eigenvector analysis and fourier analysis and plays a key role in Deep Learning methods.  Regularization is also a crucial concept which is discussed here. A nice feature of Chapter 5 is that it includes brief but useful discussions o
 
-URL: https://www.amazon.com/Introduction-Language-Models-Tanmoy-Chakraborty-ebook/dp/B0DRCSWB34
-TITLE: Introduction to Large Language Models - Kindle edition by Tanmoy ...
+URL: https://www.goodreads.com/book/show/148009.The_Elements_of_Statistical_Learning
+TITLE: The Elements of Statistical Learning: Data Mining, Inference, and ...
 CONTENTS:
-Amazon.com Click the button below to continue shopping Continue shopping Conditions of Use Privacy Policy © 1996-2025, Amazon.com, Inc. or its affiliates
+Jump to ratings and reviews Want to Read Kindle $67.33 Rate this book The Elements of Statistical Learning: Data Mining, Inference, and Prediction Trevor Hastie , Robert Tibshirani , Jerome Friedman 4.43 1,861 ratings 61 reviews Want to Read Kindle $67.33 Rate this book During the past decade there has been an explosion in computation and information technology. With it has come vast amounts of data in a variety of fields such as medicine, biology, finance, and marketing. The challenge of understanding these data has led to the development of new tools in the field of statistics, and spawned new areas such as data mining, machine learning, and bioinformatics. Many of these tools have common underpinnings but are often expressed with different terminology. This book describes the important ideas in these areas in a common conceptual framework. While the approach is statistical, the emphasis is on concepts rather than mathematics. Many examples are given, with a liberal use of color graphics. It should be a valuable resource for statisticians and anyone interested in data mining in science or industry. The book's coverage is broad, from supervised learning (prediction) to unsupervised learning. The many topics include neural networks, support vector machines, classification trees and boosting—the first comprehensive treatment of this topic in any book. Trevor Hastie, Robert Tibshirani, and Jerome Friedman are professors of statistics at Stanford University. They are prominent researchers in this area: Hastie and Tibshirani developed generalized additive models and wrote a popular book of that title. Hastie wrote much of the statistical modeling software in S-PLUS and invented principal curves and surfaces. Tibshirani proposed the Lasso and is co-author of the very successful An Introduction to the Bootstrap. Friedman is the co-inventor of many data-mining tools including CART, MARS, and projection pursuit. Genres Mathematics Computer Science Science Textbooks Nonfiction Technical Artificial Intelligence ...more 552 pages, Hardcover First published January 1, 2001 Book details & editions 629 people are currently reading 7504 people want to read About the author Trevor Hastie 14 books 34 followers Follow Follow Ratings & Reviews What do you think? Rate this book Write a Review Friends & Following Create a free account to discover what your friends think of this book! Community Reviews 4.43 1,861 ratings 61 reviews 5 stars 1,109 (59%) 4 stars 513 (27%) 3 stars 182 (9%) 2 stars 45 (2%) 1 star 12 (<1%) Search review text Filters Displaying 1 - 30 of 61 reviews Mauricio Vieira 8 reviews 3 followers Follow Follow Want to read October 15, 2009 Download PDF at http://www-stat.stanford.edu/~tibs/El... wishlist 58 likes 1 comment Like Comment Kirill Author 1 book 12 followers Follow Follow June 15, 2016 Well, it was one of the most channeling books I've read in my career. It is a rigorous and mathematically dense book on machine learning techniques. Be sure to refine your understanding of linear algebra and convex optimization before reading this book. Nonetheless, the investment will totally worth it. 11 likes Like Comment Clif Davis 1 review Follow Follow February 16, 2013 Excellent book. Has repaid multiple rereadings and is a wonderful springboard for developing your own ideas in the area. Currently I'm going through Additive Models again which I breezed by the first few times. The short section on the interplay between Bias, Variance and Model 
 
